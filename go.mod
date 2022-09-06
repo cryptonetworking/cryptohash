@@ -1,4 +1,4 @@
-module github.com/cryptonetwokring/cryptohash
+module github.com/cryptonetworking/cryptohash
 
 go 1.18
 
